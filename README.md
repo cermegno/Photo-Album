@@ -1,5 +1,8 @@
 # Photo-album
 Photo Album exercise to practice S3
+For more information about this topic don't forget to visit:
+- The companion blog article - https://anzpiper.blogspot.com/2017/10/object-storage-for-cloud-foundry-apps.html
+- The introduction to Boto S3 repository - https://github.com/cermegno/Boto-S3
 # Description
 This repo was developed for Pied Piper program 2017.
 - Step 1 creates the album with the 3 sample photos in the "photos" directory
